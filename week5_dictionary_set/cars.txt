@@ -1,0 +1,50 @@
+1899 Horsey Horseless
+1909 Ford Model T
+1911 Overland OctoAuto
+1913 Scripps-Booth Bi-Autogo
+1920 Briggs and Stratton Flyer
+1933 Fuller Dymaxion
+1934 Chrysler/Desoto Airflow
+1949 Crosley Hotshot
+1956 Renault Dauphine
+1957 King Midget Model III
+1957 Waterman Aerobile
+1958 Ford Edsel
+1958 Lotus Elite
+1958 MGA Twin Cam
+1958 Zunndapp Janus
+1961 Amphicar
+1961 Corvair
+1966 Peel Trident
+1970 AMC Gremlin
+1970 Triumph Stag
+1971 Chrysler Imperial LeBaron Two-Door Hardtop
+1971 Ford Pinto
+1974 Jaguar XK-E V12 Series III
+1975 Bricklin SV1
+1975 Morgan Plus 8 Propane
+1975 Triumph TR7
+1975 Trabant
+1976 Aston Martin Lagonda
+1976 Chevy Chevette
+1978 AMC Pacer
+1980 Corvette 305 "California"
+1980 Ferrari Mondial 8
+1981 Cadillac Fleetwood V-8-6-4
+1981 De Lorean DMC-12
+1982 Cadillac Cimarron
+1982 Camaro Iron Duke
+1984 Maserati Biturbo
+1985 Mosler Consulier GTP
+1985 Yugo GV
+1986 Lamborghini LM002
+1995 Ford Explorer
+1997 GM EV1
+1997 Plymouth Prowler
+1998 Fiat Multipla
+2000 Ford Excursion
+2001 Jaguar X-Type
+2001 Pontiac Aztek
+2002 BMW 7-series
+2003 Hummer H2
+2004 Chevy SSR
